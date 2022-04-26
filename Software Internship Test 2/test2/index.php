@@ -1,5 +1,5 @@
 <?php
-    // conect to database
+    // connect to database
     $servername = "localhost";
     $username = "root";
     $password = "";
@@ -37,7 +37,7 @@
             echo "Error: " . $sql . "<br>" . $conn->error;
         }
     }
-    //Đóng database
+    //close database
     $conn->close();
 ?>
 
