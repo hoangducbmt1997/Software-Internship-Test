@@ -12,4 +12,6 @@
 - Môi trường chạy: Browser, Vscode, XAMP.
 - Copy thư mục test2 vào đường dẫn C:\xampp\htdocs
 - Import data từ file test2.sql vào trong phần import của MySQL
-- Run sever local Xamp và database. Chạy đường dẫn:http://localhost/test2/ và xem kết quả
+- Run sever local Xamp và database. Chạy đường dẫn:http://localhost/test2/
+- Nhập dữ liệu và ấn submit để đẩy lên database
+- Chọn clear để xóa các trường đang nhập
